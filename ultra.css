@@ -1,0 +1,293 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    display: flex;
+    margin-top: 25px;
+}
+
+h3 {
+    margin-left: 200px;
+    font-size: 18px;
+}
+
+h4 {
+    margin-left: 70px;
+    font-size: 18px;
+    color: crimson;
+}
+
+i {
+    color: black;
+    margin-left: 15px;
+}
+
+.first {
+    display: flex;
+}
+
+.second {
+    display: flex;
+    margin-left: 850px;
+}
+
+.of {
+    font-size: 20px;
+}
+
+.ok {
+    margin-left: 50px;
+}
+
+.llS {
+    color: crimson;
+    text-decoration: none;
+}
+
+.imgs {
+    height: 80px;
+    width: 400px;
+    margin-left: 750px;
+    margin-top: 70px;
+}
+
+.mainnav {
+    height: 80px;
+    width: 100%;
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 5px 5px 30px grey;
+    display: flex;
+    position: sticky;
+}
+
+.left {
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: x-large;
+}
+
+.laft {
+    margin-top: 20px;
+    font-size: x-large;
+}
+
+.alla {
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.same {
+    margin-left: 50px;
+    text-decoration: none;
+    color: #000;
+    font-size: x-large;
+}
+
+.ml {
+    margin-left: 300px;
+    margin-top: 20px;
+    font-size: x-large;
+}
+
+.mll {
+    margin-top: 20px;
+    font-style: italic;
+    font-size: x-large;
+}
+
+.same:hover {
+    border-bottom: 2px solid crimson;
+    transition: all .5s ease-in;
+    color: crimson;
+}
+
+.loby {
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 5%;
+    height: 550px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+    display: flex;
+}
+
+.upper {
+    width: 50%;
+    height: 100%;
+}
+
+.upp {
+    height: 550px;
+    width: 100%;
+    border-radius: 50px;
+}
+
+button {
+    margin-left: 40px;
+    width: 120px;
+    height: 50px;
+    font-size: x-large;
+    border-radius: 45%;
+    background-color: red;
+    color: aliceblue;
+    border: 0;
+    margin-top: 25px;
+}
+
+.size {
+    font-size: 45px;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.small {
+    margin-top: 25px;
+    color: gray;
+}
+
+.sort {
+    margin-top: 25px;
+    color: gray;
+    font-size: x-large;
+    margin-left: 15px;
+}
+
+.whats {
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    margin-top: 50px;
+    display: flex;
+    margin-left: 75px;
+}
+
+.suj {
+    font-size: x-large;
+    margin-left: 50px;
+}
+.editors{
+    display: flex;
+    /* height: 400px; */
+    margin-top: 100px;
+    padding-left: 100px;
+    width: 90%;   
+}
+.five{
+    height: 400px;  
+    padding: 24px;
+    width: 17%;
+    /* border:1px dashed black  ; */
+    background-color:whitesmoke;
+}
+.blue{
+    background-color: white;
+}
+.green{
+    background-color: white;
+}
+.crimson{
+    background-color: white;
+}
+.yello{
+    background-color:white;
+}
+.red{
+    background-color: rgb(151, 187, 153);
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+.pick{
+    font-size: xx-large;
+    padding: 15px;
+}
+.lorem{
+    font-size: 25px;
+    line-height: 1.3;
+    padding: 15px;
+    color: gray;
+}
+.bug{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    border: 1px solid red;
+}
+.div{
+    margin-top:50px;
+    margin-left: 20px;
+}
+.raw{
+    /* margin-left: 80px; */
+    font-size: x-large;
+}
+.row{
+    margin-left: 150px;
+    margin-bottom: 25px;
+}
+.hmmm{
+    font-size: 30px;
+}
+.live{
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 280px ;
+}
+.ball{
+    font-size: large;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.weakly{
+    margin-top: 75px;
+}
+.childs{
+    display: flex;
+
+}
+.main{
+    margin-top: 60px;
+}
+.links{
+    display: flex;
+    width:400px ;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+li{
+    list-style: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: large;
+    padding: 10px;
+    transition: all .3s  ;
+}
+.weak{
+    color: blue;
+    font-size: large;
+    margin-left: 200px;
+}
+.follw{
+    margin-left: 100px;
+    font-size: x-large;
+}
+.think:hover{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 15px;
+}
+.img1{
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-top: 50px;
+}

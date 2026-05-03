@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(IN-en-20250922-TRIFECTA-perspective_4fd75b17-c493-446a-a3de-3d1ab753c304_medium.jpg);
+    background-size: cover;
+}
+.img{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.main{
+    height: 600px;
+    width: 500px;
+    background-color: black ;
+    opacity: .7;
+    margin-top: 50px;
+    margin-left: 35%;
+}
+.child{
+    color: #fff;
+    margin-left: 40px;
+    padding-top: 40px;
+    font-size: xx-large;
+    opacity: 1;
+}
+input{
+    padding: 10px;
+    width: 400px;
+    height: 35px;
+    border: 2px solid #fff;
+    margin-left: 40px;
+    margin-top: 40px;
+    background-color: gray;
+    /* opacity: .5; */
+    font-size: larger;
+    color: red; 
+    border-radius: 5px;
+}
+.div{
+    margin-top: 35px;
+    margin-left: 40px;
+    width: 500px;
+}
+.Sing{
+    padding: 15px 188px;
+    background-color: red;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.Sing:hover{
+    background-color: rgb(255, 50, 50);
+}
+.div4{
+    margin-top: 25px;
+}
+.or{
+    margin-left: 50%;
+    margin-top: 25px;
+    color: white;   
+    font-size:x-large;
+}
+.sung{
+    padding: 15px 155px;
+    background-color: white;
+    color: #000;
+    border: 2px solid white;
+    margin-left: 40px;
+    opacity: .5;
+    border-radius: 5px;
+}
+.sung:hover{
+    opacity: .7;
+}
+.div5{
+    margin-top: 25px;
+}
+.for{
+    color: #fff;
+    font-size: larger;
+    margin-left: 39%;
+}
+.forr{
+    margin-left: 40px;
+    font-size: larger   ;
+}
+.div7{
+    margin-top: 25px;
+    margin-left: 40px;
+    width: 400px;       
+}
+p{
+    color: #fff;
+}
+.footer{
+    margin-top: 50px;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(94, 93, 93);
+}
+.img7{
+    margin-left: 45%;   
+    margin-left: 635px;
+}
+.pop{
+    margin-left: 38%;
+    font-size: x-large;
+}
